@@ -1,0 +1,1 @@
+These resources provide an overview of methodology used in CMV framework for 1) JavaScript for data handling and widget functionality 2) HTML configurations and 3) CSS configurations.

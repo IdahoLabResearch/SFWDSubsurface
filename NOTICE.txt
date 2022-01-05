@@ -32,6 +32,6 @@ OWNED RIGHTS.
 
 Authors:
 
-	Tessical Oldemeyer
+	Tessica Oldemeyer
 	Glenn Russell
 
